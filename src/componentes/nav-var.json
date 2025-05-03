@@ -1,0 +1,10 @@
+{
+    "secciones":["Sobre mi","Certificados","Proyectos","Contactame"],
+    "datos-personales":{
+        "nombre":"Jorge Eduardo",
+        "apellidos":"Martinez Guerrero"
+    },
+    "about_me":["Soy egresado en Ingenieria Telematica formado en el Instituto Politecnico Nacional"],
+    "certificados":["GoogleCloud Foundations","Bootcamp: 100 days of python","WEB Full-stack developer"],
+    "aptitudes":["","",""]
+}
