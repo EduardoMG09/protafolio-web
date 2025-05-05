@@ -1,0 +1,58 @@
+{
+    "proyectos":{
+        "UniiMarket":{
+            "Descripcion":"Desarrollo web estilo delivery para un publico estudiantil, abriendo paso a los jovenes emprendedores. Facilitando la visualización, conexión y promocióin de sus productos.",
+            "Link":"",
+            "Imagen":"UniiMarket.jpg",
+            "Color":""
+        },
+        "Query Checker":{
+            "Descripcion":"Desarrollo web para facilitar consultas SQL, donde los alumnos pueden realizar consultas con fines educativos y los profesores poder visualizarlas como parte de tareas",
+            "Link":"",
+            "Imagen":"QueryChecker.png",
+            "Color":""
+        },
+        "Stocks shares":{
+            "Descripcion":"Codigo en python, utilizando API que nos notificará mediante mensaje SMS si las acciones de la bolsa de valores para ciertas empresas cambian respecto a un porcentaje.",
+            "Link":"",
+            "Imagen":"Stock shares.jpg",
+            "Color":""
+        },
+        "Mi blog":{
+            "Descripcion":"Pagina web comunmente usada como blog, en la cual puedes comentar y hacer criticas a todo tipo de cosas, peliculas, comidas, clases o hasta deportes.",
+            "Link":"",
+            "Imagen":"Mi blog.jpg",
+            "Color":""
+        },
+        "Casa de empeño":{
+            "Descripcion":"Desarrollo en Java, donde maneja vistas para una casa de empeño, facil de usar y cumple con todas las acciones de una casa de empeño: registro de prenda, dueño y retorno.",
+            "Link":"",
+            "Imagen":"empeño1.jpg",
+            "Color":""
+        },
+        "My products update":{
+            "Descripcion":"Atraves de web-scrapping con un programa en python, se te será notficado cuando un producto baje de precio o esté en oferta en Amazon o cualquier pagina de ventas.",
+            "Link":"",
+            "Imagen":"PUpdate.jpg",
+            "Color":""
+        },
+        "Gestor de grupos para UCL":{
+            "Descripcion":"Con estructuras de datos realizadas en C, se organizan los datos de los equipos clasificados al torneo, podiendo insertar y borrar al final, al inicio o en cualquier posicion.",
+            "Link":"",
+            "Imagen":"UEFA.png",
+            "Color":""
+        },
+        "Keeper":{
+            "Descripcion":"Desarrollo web donde agregas notas como recordatorio con el fin de tener mas presente las cosas del día a día. Uso de React con componentes y hooks.",
+            "Link":"",
+            "Imagen":"keeper.png",
+            "Color":""
+        },
+        "Planetario":{
+            "Descripcion":"Aplicación en Java donde maneja clases, importa imagenes y usa componentes en el frame, con el fin de calcular la masa respecto a  la masa y mostrarla en ese planeta y en la tierra.",
+            "Link":"",
+            "Imagen":"sistema solar.jpg",
+            "Color":""
+        }
+    }
+}

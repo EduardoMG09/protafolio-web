@@ -1,15 +1,18 @@
 import React from "react";
 import datosNav from "./nav-var.json"
+//import batman from "../assets/batman_logo2.png"
 
 function Header(){
     return (
         <div>
             <div className="header">
-                <ul className="nav-var">
-                    {datosNav.secciones.map((seccion, index) => (
-                    <li className="lista-item" key={index}>{seccion}</li>
-                    ))}
-                </ul>
+                {/*<div className="cont-img">
+                    <img className="batman" src={batman} alt="" />
+                </div>*/}
+                {datosNav.secciones.map((sec, index) => (
+                <div key={index} className="icons">
+                    <i className={`bi ${sec.icono} icon ${sec.nombre}`}></i>
+                </div>))}
             </div>
         </div>
     );
