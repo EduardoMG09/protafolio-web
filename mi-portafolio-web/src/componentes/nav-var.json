@@ -1,9 +1,10 @@
 {
     "secciones":[
-        { "nombre": "Inicio", "icono": "bi-person" },
-        { "nombre": "Proyectos", "icono": "bi-file-code" },
-        { "nombre": "Contacto", "icono": "bi-inbox" },
-        { "nombre": "Acerca", "icono": "bi-file-person" }
+        { "nombre": "Sobre mí", "icono": "bi-person" },
+        { "nombre": "Stack  Tech", "icono": "bi-file-code" },
+        { "nombre": "Proyectos", "icono": "bi-inbox" },
+        { "nombre": "Certificaciones", "icono": "bi-file-person" },
+        { "nombre": "Contacto", "icono": "bi-file-person" }
     ],
     "datos-personales":{
         "nombre":"Jorge Eduardo",

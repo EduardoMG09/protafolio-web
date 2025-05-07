@@ -4,15 +4,13 @@ import datosNav from "./nav-var.json"
 
 function Header(){
     return (
-        <div>
+        <div className="container-header">
             <div className="header">
-                {/*<div className="cont-img">
-                    <img className="batman" src={batman} alt="" />
-                </div>*/}
-                {datosNav.secciones.map((sec, index) => (
-                <div key={index} className="icons">
-                    <i className={`bi ${sec.icono} icon ${sec.nombre}`}></i>
-                </div>))}
+                <div className="icons">
+                    {datosNav.secciones.map((sec, index) => (
+                        <span key={index} className="icon">{sec.nombre}</span>
+                    ))}
+                </div>
             </div>
         </div>
     );

@@ -24,10 +24,21 @@
             "nombre":"SQL Server",
             "icono":"BD_logo-removebg-preview.png"          
         },
-        
         "html":{
             "nombre":"html",
             "icono":"html_logo-removebg-preview.png"            
+        },
+        "react":{
+            "nombre":"React",
+            "icono":"react_logo-removebg-preview.png"
+        },
+        "postgre":{
+            "nombre":"postgreSQL",
+            "icono":"postgre_logo-removebg-preview.png"
+        },
+        "nodejs":{
+            "nombre":"Node.js",
+            "icono":"node_logo-removebg-preview.png"
         }
     }
 }

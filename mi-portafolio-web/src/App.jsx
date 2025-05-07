@@ -13,7 +13,9 @@ import Dat from './componentes/web-secciones.json'
 function App() {
   return (
     <div>
-      <Header  />
+      <div className='contacto-container'>
+        <Header  />
+      </div>
       <div className='container'>
         <Main/>
       </div>
