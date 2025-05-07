@@ -1,0 +1,24 @@
+{
+    "contacto":{
+        "Linkedin":{
+            "link":"www.linkedin.com/in/jorge-martinez-890072215",
+            "icono":"bi-linkedin"
+        },
+        "GitHub":{
+            "link":"https://github.com/EduardoMG09",
+            "icono":"bi-github"
+        },
+        "X":{
+            "link":"https://x.com/lalo_guerrero09?s=11&t=EKo-oB2YUVZ56zynh6cXqg",
+            "icono":"bi-twitter"
+        },
+        "Instagram":{
+            "link":"https://www.instagram.com/lalo_guerrero_09?igsh=MWhtN3VpaXJoZ3hyYg%3D%3D&utm_source=qr",
+            "icono":"bi-instagram"
+        },
+        "OCC":{
+            "link":"https://www.occ.com.mx/curriculo",
+            "icono":"bi-bullseye"
+        }
+    }
+}

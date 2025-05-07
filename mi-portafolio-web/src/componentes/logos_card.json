@@ -1,0 +1,33 @@
+{
+    "logos":{
+        "python":{
+            "nombre":"Python",
+            "icono":"python_logo-removebg-preview.png"            
+        },
+        "java":{
+            "nombre":"Java",
+            "icono":"java_logo-removebg-preview.png"  
+        },
+        "javascript":{
+            "nombre":"JavaScript",
+            "icono":"js_logo-removebg-preview.png"            
+        },
+        "C":{
+            "nombre":"C",
+            "icono":"c_logo-removebg-preview.png"            
+        },
+        "c#":{
+            "nombre":"C#",
+            "icono":"cs_logo-removebg-preview.png"            
+        },
+        "sql":{
+            "nombre":"SQL Server",
+            "icono":"BD_logo-removebg-preview.png"          
+        },
+        
+        "html":{
+            "nombre":"html",
+            "icono":"html_logo-removebg-preview.png"            
+        }
+    }
+}

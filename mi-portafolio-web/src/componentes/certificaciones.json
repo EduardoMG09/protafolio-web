@@ -1,0 +1,24 @@
+{
+    "certificados":{
+        "Google Cloud Foundations":{
+            "Empresa":"Google",
+            "Link":"https://drive.google.com/file/d/14IZiwkZicGM1-euD50SF2VQWwpRKoOUk/view?usp=drive_link"
+        },
+        "Python Bootcamp":{
+            "Empresa":"Udemy",
+            "Link":"https://drive.google.com/file/d/1G8i1Qv38QFbWNB0fObCUQGwceLVyvOBz/view?usp=drive_link"
+        },
+        "WEB Devloper Full-stack":{
+            "Empresa":"Udemy",
+            "Link":""
+        },
+        "HTML y CSS":{
+            "Empresa":"Alura",
+            "Link":"https://drive.google.com/file/d/1RLe9lEHarZbKLsfEFN1eaEK2OZWR9FbZ/view?usp=drive_link"
+        },
+        "IoT":{
+            "Empresa":"Cisco",
+            "Link":"https://drive.google.com/file/d/1CuD6Kdsod93c4H-iuxNNFBl91jx1FIJl/view?usp=drive_link"
+        }
+    }
+}

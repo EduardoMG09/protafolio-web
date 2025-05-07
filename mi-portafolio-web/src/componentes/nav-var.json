@@ -1,10 +1,35 @@
 {
-    "secciones":["Sobre mi","Certificados","Proyectos","Contactame"],
+    "secciones":[
+        { "nombre": "Inicio", "icono": "bi-person" },
+        { "nombre": "Proyectos", "icono": "bi-file-code" },
+        { "nombre": "Contacto", "icono": "bi-inbox" },
+        { "nombre": "Acerca", "icono": "bi-file-person" }
+    ],
     "datos-personales":{
         "nombre":"Jorge Eduardo",
-        "apellidos":"Martinez Guerrero"
+        "apellidos":"Martinez Guerrero",
+        "informacion":["Ingenierio Telematico","Desarrollador de software"]
     },
-    "about_me":["Soy egresado en Ingenieria Telematica formado en el Instituto Politecnico Nacional"],
+    "hard_skills":["Git","GitHub","GitHub desktop","Linux","Windows","Office","VS Code","codesandsbox"],
     "certificados":["GoogleCloud Foundations","Bootcamp: 100 days of python","WEB Full-stack developer"],
-    "aptitudes":["","",""]
+    "soft_skills":["Proactivo","Puntual","Creativo"],
+    "Lenguajes":["Python","Bases de datos","Java","JavaScript","C","C#","React","Flask","Node.js","HTML","CSS"],
+    "conocimientos":{
+        "Bases de datos":["SQL","PosgreSQL","Triggers","JOINS"],
+        "Python":["Flask","Pandas","NumPy","Jupyther","Webscrapping","API","Automatización","Clases","SQLite"],
+        "Java":["Clases","Frames"],
+        "Javascript":["Node.js","React","jQuery"],
+        "Formatos":["JSON","CSV","txt","env"],
+        "C#":["Clases","Herencia","Constructores"],
+        "C":["Estrcuturas de datos"],
+        "WEB":["html","css","Bootsrap"]
+    },
+    "Proyectos":{
+        "Python":[],
+        "SQL":[],
+        "Java":[],
+        "WEB":[],
+        "C#":[],
+        "C":[]
+    }
 }
