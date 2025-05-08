@@ -11,9 +11,9 @@
         "apellidos":"Martinez Guerrero",
         "informacion":["Ingenierio Telematico","Desarrollador de software"]
     },
-    "hard_skills":["Git","GitHub","GitHub desktop","Linux","Windows","Office","VS Code","codesandsbox"],
+    "hard_skills":["Git","GitHub","Linux","Windows","Office","VS Code","codesandsbox","DevC","NeatBeans","Pycharm"],
     "certificados":["GoogleCloud Foundations","Bootcamp: 100 days of python","WEB Full-stack developer"],
-    "soft_skills":["Proactivo","Puntual","Creativo"],
+    "soft_skills":["Proactivo","Puntual","Aprendizaje continuo","Creativo","Adaptabilidad","Innovacion","Comunicacion","Trabajo en equipo","Resolución de problemas","Organización"],
     "Lenguajes":["Python","Bases de datos","Java","JavaScript","C","C#","React","Flask","Node.js","HTML","CSS"],
     "conocimientos":{
         "Bases de datos":["SQL","PosgreSQL","Triggers","JOINS"],
